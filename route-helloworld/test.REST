@@ -1,0 +1,4 @@
+GET http://localhost:3000
+
+###
+GET http://localhost:3000/something?color1=red&color2=blue
